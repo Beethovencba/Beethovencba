@@ -8,3 +8,4 @@
 - Atualmente estou desempregado e procuro uma oportunidade na area de tecnologia.
 - 
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Beethovencba)](https://github.com/Beethovencba/github-readme-stats)
