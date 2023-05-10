@@ -6,9 +6,10 @@
 - 🤔 Meu objetivo como programador é trabalhar com Backend.
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Beethovencba&show_icons=true&theme=transparent)](https://github.com/Beethovencba/github-readme-stats)
-[![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Beethovencba)](https://github.com/Beethovencba/github-readme-stats)
 
-<a href="https://github.com/Beethovencba/github-readme-stats"> anuraghazra
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Beethovencba&layout=compact)](https://github.com/Beethovencba/github-readme-stats)
+
+<a href="https://github.com/Beethovencba/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Beethovencba&repo=github-readme-stats" />
 </a>
 <a href="https://github.com/Beethovencba/convoychat">
