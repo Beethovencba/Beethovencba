@@ -40,6 +40,5 @@
   <a href="https://www.instagram.com/olimarmartins" target="_blank"><img src= "https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blanck"></a>
   <a href="https://www.linkedin.com/in/olimardev-contato" target="_blanck"/><img src= "https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" targe="_blanck"></a>
   <a href="mailto: olimar.dev@gmail.com"><img src= "https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" targe="_blanck"></a>
-  <a href="https://discord.com/channels/@me" target="_blank" ><img src= "https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" targe="_blanck"></a>
 </div>
 
