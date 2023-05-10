@@ -42,4 +42,4 @@
   <a href="mailto: olimar.dev@gmail.com"><img src= "https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" targe="_blanck"></a>
   <a href="https://discord.com/channels/@me" target="_blank" ><img src= "https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" targe="_blanck"></a>
 </div>
-![Snake animation](https://github.com/Beethovencba/Beethovencba/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/Beethovencba/Beethovencba/blob/output/github-contribution-grid-snake.svg)
