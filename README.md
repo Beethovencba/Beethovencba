@@ -41,6 +41,3 @@
   <a href="https://www.linkedin.com/in/olimardev-contato" target="_blanck"/><img src= "https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" targe="_blanck"></a>
   <a href="mailto: olimar.dev@gmail.com"><img src= "https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" targe="_blanck"></a>
 </div>
-
-[Beethovencba](https://github.com/Beethovencba/Beethovencba)
-
