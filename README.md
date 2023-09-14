@@ -32,6 +32,8 @@
   <img aling=center alt= beethoven_css height=50 width=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg"/>
   <img aling=center alt= beethoven_html height=50 width=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg"/>
   <img aling=center alt= beethoven_c height=50 width=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg"/>
+<img aling=center alt= beethoven_python height=50 width=60 
+src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
 </div>
 
 ##
