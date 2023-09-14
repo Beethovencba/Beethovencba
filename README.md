@@ -34,9 +34,9 @@
   <img aling=center alt= beethoven_c height=50 width=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg"/>
 <img aling=center alt= beethoven_python height=50 width=60 
 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>  
-<img aling=center alt= beethoven_sqlite height=60 width=70
+<img aling=center alt= beethoven_sqlite height=70 width=70
 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original-wordmark.svg" />
-<img aling=center alt= beethoven_sqlite height=60 width=70
+<img aling=center alt= beethoven_sqlite height=70 width=70
 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original-wordmark.svg" />
  </div>
 
