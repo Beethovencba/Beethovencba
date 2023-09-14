@@ -34,6 +34,9 @@
   <img aling=center alt= beethoven_c height=50 width=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg"/>
 <img aling=center alt= beethoven_python height=50 width=60 
 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
+  
+<img aling=center alt= beethoven_sqlite height=50 width=60
+src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original-wordmark.svg" />  
 </div>
 
 ##
