@@ -1,17 +1,17 @@
-### Hello World!!👋
+# Hello World!!👋
 
-BEM VINDOS!
+## BEM VINDOS!
 Me chamo Olimar, tenho 37 anos, sou graduando em Economia, aspirante a programador e um orgulhoso morador de Cuiabá-MT. 
 🔭 Atualmente estou cursando Economia na Universidade Federal de Mato Grosso e a pouco mais de um ano venho me dedicando ao 🌱 estudo da programação de forma autodidata, utilizando plataformas como Alura e mais recentemente finalizei um curso online de Harvard chamado CS50, ministrada pelos renomados professores David J. Malan, Doug Lloyd e Brian Yu.
-Estou em constante busca por oportunidades de aprendizado. Recentemente participei do processo seletivo da escola de programação École 42, uma ONG francesa que esta entre as top 6 escolas mais inovadoras do mundo com mais de 40 unidades espalhadas pelo globo, tendo 3 unidades no Brasil com sua primeira sede em SP (https://www.42sp.org.br/). Uma escola alternativa e inclusiva, aberta 24h, sem professores, baseada no método pear-to-pear (pessoa a pessoa), onde alunos ensinam alunos, sendo você o principal e único responsável pelo seu aprendizado. A instituição conta com o ambiente extremamente colaborativo e uma estrutura física impecável. Além disso, é Gratizz. Seu processo seletivo é chamado, sugestivamente, de piscina 🤽‍♀️. Uma jornada intensa, onde se respira código por 26 dias, onde seu principal objetivo é aprender a aprender.  E, embora eu não tenha sido aprovado (pois é. Eu me afoguei! 😅), estou determinado a tentar novamente em breve.
-Tenho como objetivo profissional é consolidar minha carreira como programador e economista, focando especialmente em DataScience. Caminho este que tem se mostrado desafiador! 
+Estou em constante busca por oportunidades de aprendizado. Recentemente participei do processo seletivo da escola de programação École 42, uma ONG francesa que esta entre as top 6 escolas mais inovadoras do mundo com mais de 40 unidades espalhadas pelo globo, tendo 3 unidades no Brasil com sua primeira sede em SP (https://www.42sp.org.br/). Uma escola alternativa e inclusiva, aberta 24h, sem professores, baseada no método pear-to-pear (pessoa a pessoa), onde alunos ensinam alunos, sendo você o principal e único responsável pelo seu aprendizado. A instituição conta com o ambiente extremamente colaborativo e uma estrutura física impecável. Além disso, é Gratizz. Seu processo seletivo é chamado, sugestivamente, de piscina 🤽‍♀️. Uma jornada intensa, onde se respira código por 26 dias e seu principal objetivo é aprender a aprender.  E, embora eu não tenha sido aprovado (pois é. Eu me afoguei! 😅), estou determinado a tentar novamente em breve.
+Tenho como objetivo profissional consolidar minha carreira como programador e economista, focando especialmente em DataScience. Caminho este que tem se mostrado desafiador! 
 
 Mas com diz o poeta Antonio Machado 🤔 :
 
-"Caminhante, são tuas pegadas
-o caminho e nada mais;
-caminhante, não há caminho,
-se faz caminho ao andar"
+### Caminhante, são tuas pegadas
+### o caminho e nada mais;
+### caminhante, não há caminho,
+### se faz caminho ao andar"
 
 ##
 
