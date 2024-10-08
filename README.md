@@ -1,19 +1,18 @@
 # Hello World!!👋
 
 ## BEM VINDOS!
-Me chamo Olimar, tenho 37 anos, sou graduando em Economia, aspirante a programador e um orgulhoso morador de Cuiabá-MT. 
-🔭 Atualmente estou cursando Economia na Universidade Federal de Mato Grosso e a pouco mais de um ano venho me dedicando ao 🌱 estudo da programação de forma autodidata, utilizando plataformas como Alura e mais recentemente finalizei um curso online de Harvard chamado CS50, ministrada pelos renomados professores David J. Malan, Doug Lloyd e Brian Yu.
-Estou em constante busca por oportunidades de aprendizado. Recentemente participei do processo seletivo da escola de programação École 42, uma ONG francesa que esta entre as top 6 escolas mais inovadoras do mundo com mais de 40 unidades espalhadas pelo globo, tendo 3 unidades no Brasil com sua primeira sede em SP (https://www.42sp.org.br/). Uma escola alternativa e inclusiva, aberta 24h, sem professores, baseada no método pear-to-pear (pessoa a pessoa), onde alunos ensinam alunos, sendo você o principal e único responsável pelo seu aprendizado. A instituição conta com o ambiente extremamente colaborativo e uma estrutura física impecável. Além disso, é Gratizz. Seu processo seletivo é chamado, sugestivamente, de piscina 🤽‍♀️. Uma jornada intensa, onde se respira código por 26 dias e seu principal objetivo é aprender a aprender.  E, embora eu não tenha sido aprovado (pois é. Eu me afoguei! 😅), estou determinado a tentar novamente em breve.
-Tenho como objetivo profissional consolidar minha carreira como programador e economista, focando especialmente em DataScience. Caminho este que tem se mostrado desafiador! 
 
-Mas com diz o poeta Antonio Machado 🤔 :
+Olá, eu sou o Olimar!
 
-### Caminhante, são tuas pegadas
-### o caminho e nada mais;
-### caminhante, não há caminho,
-### se faz caminho ao andar"
+Tenho 38 anos, sou graduando em Economia pela Universidade Federal de Mato Grosso e aspirante a programador com foco em Data Science. Moro em Cuiabá-MT e, há pouco mais de um ano, venho me dedicando ao estudo da programação de forma autodidata, utilizando plataformas como Alura, CS50 (curso online de Harvard), ministrado pelos renomados professores David J. Malan, Doug Lloyd e Brian Yu, além do curso de Ciência de Dados para Economistas, ministrado pelo professor Felipe Resende Oliveira/UFMT.
 
-##
+Atualmente, estou em constante busca por oportunidades de aprendizado e crescimento. Em 2023, participei do processo seletivo da École 42 em São Paulo, uma ONG francesa que está entre as seis escolas mais inovadoras do mundo. A experiência, conhecida como "piscina", foi uma jornada intensa de 26 dias, onde o principal objetivo era aprender a aprender. Embora eu não tenha sido aprovado (pois é. Eu me afoguei! 😅), a experiência me trouxe muitos aprendizados valiosos, e estou determinado a tentar novamente em breve.
+
+Atualmente, estou estagiando na Secretaria de Desenvolvimento Econômico do Estado de Mato Grosso (SEDEC) como desenvolvedor e analista econômico. Meu objetivo profissional é consolidar minha carreira como programador e economista, com foco especial em Data Science — uma jornada que tem sido desafiadora, mas também cheia de possibilidades.
+
+##Como diz o poeta Antonio Machado:
+
+##"Caminhante, são tuas pegadas o caminho e nada mais; caminhante, não há caminho, se faz caminho ao andar."
 
 <div style="display: grid; grid-template-columns: 1fr 1fr; grid-gap: 20px;">
   <div style="background-color: #f2f2f2; padding: 20px;">
