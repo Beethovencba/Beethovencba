@@ -4,7 +4,7 @@
 
 Olá, eu sou o Olimar!
 
-Tenho 38 anos, sou graduando em Economia pela Universidade Federal de Mato Grosso e aspirante a programador com foco em Data Science. Moro em Cuiabá-MT e, há pouco mais de um ano, venho me dedicando ao estudo da programação de forma autodidata, utilizando plataformas como Alura, CS50 (curso online de Harvard), UFMT - Ciência de Dados para Economistas, ministrado pelo professor Felipe Resende Oliveira/UFMT, estrutura de dados / FASIP, Google Data Analytics (Cursera), e outros.
+Tenho 38 anos, sou graduando em Economia pela Universidade Federal de Mato Grosso e aspirante a programador com foco em Data Science. Moro em Cuiabá-MT e, há pouco mais de um ano, venho me dedicando ao estudo da programação de forma autodidata, utilizando plataformas como Alura, CS50 (curso online de Harvard), estrutura de dados/FASIP, Google Data Analytics (Cursera), e outros. Além de participar do modulo Ciência de Dados para Economistas, ministrado pelo professor Felipe Resende Oliveira/UFMT.
 
 Atualmente, estou em constante busca por oportunidades de aprendizado e crescimento. Em 2023, participei do processo seletivo da École 42 em São Paulo, uma ONG francesa que está entre as seis escolas mais inovadoras do mundo. A experiência do processo seletivo, conhecida como "piscina" (uma espécie de bootcamp), foi uma jornada intensa de 26 dias onde o principal objetivo era aprender a aprender. Embora eu não tenha sido aprovado (pois é. Eu me afoguei! 😅), a experiência me trouxe muitos aprendizados valiosos, e estou determinado a tentar novamente em breve.
 
